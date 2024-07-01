@@ -9,7 +9,7 @@
 ### Illustrations
 
 <div align='center'>
-<img src="https://github.com/XU-TIANYANG/cakes/blob/master/ZOO145.png" width=90%>
+<img src="https://github.com/XU-TIANYANG/cakes/blob/master/ZOO145.png" width=100%>
 </div>
 
 
