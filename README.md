@@ -9,7 +9,7 @@
 ### Illustrations
 
 <div align='center'>
-<img src="[./assets/image-1.png](https://github.com/XU-TIANYANG/cakes/blob/master/ZOO145.png)" width=90%>
+<img src="https://github.com/XU-TIANYANG/cakes/blob/master/ZOO145.png" width=90%>
 </div>
 
 
@@ -37,15 +37,15 @@ ZOO145
 |  ├── init_rect.txt
 ├── ... ...
 └── /zebra6/
-│  ├── /color/
-│  │  ├── 00000001.jpg
-│  │  ├── 00000002.jpg
-│  │  ├── ... ...
-│  │  └── 00001500.jpg
-|  ├── zebra6.txt
-|  ├── zebra6_rect.txt
-|  ├── groundtruth_rect.txt
-|  ├── init_rect.txt
+   ├── /color/
+   │  ├── 00000001.jpg
+   │  ├── 00000002.jpg
+   │  ├── ... ...
+   │  └── 00001500.jpg
+   ├── zebra6.txt
+   ├── zebra6_rect.txt
+   ├── groundtruth_rect.txt
+   ├── init_rect.txt
 
 ```
 
